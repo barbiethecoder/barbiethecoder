@@ -1,16 +1,14 @@
-### Hi there 👋
+Hey there!! 😀
 
-<!--
-**barbiethecoder/barbiethecoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Tripti, and i am currently pursuing Btech from Apbul Kalam Technical University, while at college i established and grew my passion for Technology some of the subjects that passionate me most were Data Base Management System, Data structure and algorithm, Data analytics and visulaization. where i learned how to perform Problem Solving.
+I am highly motivated to learn more and excited to collaborate
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+TECH STACK
+-- cpp
+--javascript
+--css3
+--DSA
+--C
+--react
